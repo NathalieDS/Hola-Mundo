@@ -1,5 +1,5 @@
 # Hola-Mundo
 
-Mi primer repositorio
+My first reposity
 
-me gusta el helado, la musica y los animales
+i love : animals, icecream, draw
